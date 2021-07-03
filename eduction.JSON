@@ -1,0 +1,20 @@
+  
+{
+	
+		"Eduction": [
+			{
+				"name": "ADA",
+				"price": "$5.95",
+				"description": "Hi I Am niraj",
+				"image": "https://specials.priceless.com/mastercard/images/97d4a971-1ebb-4bc8-92e6-b18095feb13e.png"
+			},
+			{
+				"name": "hi i there",
+				"price": "$5.96",
+				"description": "Hi I there",
+				"image": "https://specials.priceless.com/mastercard/images/97d4a971-1ebb-4bc8-92e6-b18095feb13e.png"
+			}
+			
+		]
+	
+}
